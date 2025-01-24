@@ -69,7 +69,7 @@ enterBtn.addEventListener('click',() => {
                 }
             }
         }
-        
+        console.log(result)
         const symbolArray = [...result];
         console.log(...symbolArray)
        
